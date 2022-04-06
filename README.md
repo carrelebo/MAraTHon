@@ -17,3 +17,5 @@ Jour 3 : (4avril 2022) : Plus (+) de démostrations
 
 0h20 : notation de multiple, diviseur et nombre premier (avec démo et exercice pour démo nombre paire et impaire) terniné.
       commentaire : Je démontre mieu que avant, mais des difficulté sur la rédaction
+
+4avril 2022 - xavril : suspension
