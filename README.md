@@ -1,4 +1,4 @@
-# MAraTHon, chapitre complété : 4/+60 (4 Avril 2022) 
+# MAraTHon, chapitre complété : 5/+60 (4 Avril 2022) 
 Progression du projet : programme lycée maths
 
 Jour 1 (1ère Avril 2022) : préparation de notions et mentale
@@ -18,4 +18,9 @@ Jour 3 : (4avril 2022) : Plus (+) de démostrations
 0h20 : notation de multiple, diviseur et nombre premier (avec démo et exercice pour démo nombre paire et impaire) terniné.
       commentaire : Je démontre mieu que avant, mais des difficulté sur la rédaction
 
-4avril 2022 - xavril : suspension
+4avril 2022 - 11juin : suspension
+
+Jour 4 : entré dans les nouvelles notions du niveau de Seconde
+
+17h01 : équation, inéquation, produit et quotient, tableau de signes... terminé.
+        commentaire : après ce chapitre je rentrerai dans des notions que je n'est encore presque jamais appris, cela montre une progression.
