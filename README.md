@@ -27,3 +27,6 @@ commentaire : encore plus dure, plusieurs nouvelles notions, mais dans l'ensembl
 
 17h01 : équation, inéquation, produit et quotient, tableau de signes... terminé.
         commentaire : après ce chapitre je rentrerai dans des notions que je n'est encore presque jamais appris, cela montre une progression.
+
+23h32 : les vecteur terminé.
+        commentaire : il faut être assez à l'aise en géométrie et bien s'adapter aux nouvelle notion.
