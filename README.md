@@ -1,4 +1,7 @@
 # MAraTHon, chapitre complété : 5/+60 (11 juin 2022) -> 2nd
+
+Ce projet à été réaliser pour me rapeler de ma progession sur mon niveau en mathématique, un très gros et long projet qui je pense vaux largement la peine.
+
 Progression du projet : programme lycée maths
 
 Jour 1 (1ère Avril 2022) : préparation de notions et mentale
