@@ -7,7 +7,7 @@ Progression du projet : programme lycée maths
 **Jour 1** (1ère Avril 2022) : préparation de notions et mentale
                            22h09 : 1er chappitre terminé : Calcule algébrique (distributivité, double distrib, identité remarquables...)
                            
-**Jour** 2 : (2 Avril 2022) : Fin des notions de bases, le début des nouvelles notions !
+**Jour 2** : (2 Avril 2022) : Fin des notions de bases, le début des nouvelles notions !
 
 12h12 : puissances et racine carré (fin des notions de bases) terminé, 
 commentaire : c'était très dure de reprendre les bases avec les formule d'on certaines que je ne connaissais pas 
