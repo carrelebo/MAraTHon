@@ -1,4 +1,4 @@
-# MAraTHon, chapitres complétés : 6/+60 (11 juin 2022) -> 2nd
+# MAraTHon, chapitres complétés : 7/+60 (12 juin 2022) -> 2nd
 
 Ce projet à été réaliser pour me rapeler de ma progession sur mon niveau en mathématique, un très gros et long projet qui je pense vaux largement la peine.
 
@@ -16,17 +16,23 @@ et ce n'est seulement le début, mais c'est au moins une barrière de franchis p
 18h08 : nombre réel (ensembles, intervalles, valeure absolue, arrondie, encadrement, équations et inéquations) terminé
 commentaire : encore plus dure, plusieurs nouvelles notions, mais dans l'ensemble c'était long mais assez simple pour le moment à comprendre et pratiquer.
 
-**Jour 3** : (4avril 2022) : Plus (+) de démostrations
+**Jour 3** : (4 avril 2022) : Plus (+) de démostrations
 
 0h20 : notation de multiple, diviseur et nombre premier (avec démo et exercice pour démo nombre paire et impaire) terniné.
       commentaire : Je démontre mieu que avant, mais des difficulté sur la rédaction
 
 4avril 2022 - 11juin : suspension
 
-**Jour 4** : entré dans les nouvelles notions du niveau de Seconde
+**Jour 4** (11 juin 2022) : entré dans les nouvelles notions du niveau de Seconde
 
 17h01 : équation, inéquation, produit et quotient, tableau de signes... terminé.
         commentaire : après ce chapitre je rentrerai dans des notions que je n'est encore presque jamais appris, cela montre une progression.
 
 23h32 : les vecteur terminé.
         commentaire : il faut être assez à l'aise en géométrie et bien s'adapter aux nouvelle notion.
+        
+**Jour 5** (12 juin 2022) : le programme commence à être très dense
+
+13h19 : vecteurs et repérage, repère, coordonées d'un vecteur, colonéarité, millieu, distance, formules... terminé.
+        commentaire : ça a été très dense, il y a beaucoup de formules et de nouvelle notions, et il faut bien les assimilé.
+        
