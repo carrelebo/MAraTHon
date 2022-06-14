@@ -36,3 +36,8 @@ commentaire : encore plus dure, plusieurs nouvelles notions, mais dans l'ensembl
 13h19 : vecteurs et repérage, repère, coordonées d'un vecteur, colonéarité, millieu, distance, formules... terminé.
         commentaire : ça a été très dense, il y a beaucoup de formules et de nouvelle notions, et il faut bien les assimilé.
         
+        
+**EVENEMENT** (14 juin 2022, 20h43) : "explosion", fini de rigoler et jouer, je perds à chaque fois énormement de temps et je ne me
+concentre pas assez sur mes projet, maitenant je mets mon plan en oeuvre, ça ne sera pas du gateau, mais tout va avancé beaucoup
+plus vite !
+        
