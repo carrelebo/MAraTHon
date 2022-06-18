@@ -1,4 +1,4 @@
-# MAraTHon, chapitres complétés : 7/+60 (12 juin 2022) -> 2nd
+# MAraTHon, chapitres complétés : 7/+60 (18 juin 2022) -> 2nd
 
 Ce projet à été réaliser pour me rapeler de ma progession sur mon niveau en mathématique, un très gros et long projet qui je pense vaux largement la peine.
 
@@ -41,3 +41,8 @@ commentaire : encore plus dure, plusieurs nouvelles notions, mais dans l'ensembl
 concentre pas assez sur mes projet, maitenant je mets mon plan en oeuvre, ça ne sera pas du gateau, mais tout va avancé beaucoup
 plus vite !
         
+**Jour 11** (18juin 2022) : il faut répéter pour comprendre
+
+14h19 : Droites du plan, équation cartésienne, équation réduite, position relative... terminé.
+        commentaire : encore beaucoup de nouvelle notion, j'ai pris beaucoup plus de temps pour comprendre, mais comme d'habitude,
+        il suffit de faire et refaire des exercice et bien écouté pour que celà devient très simple.
