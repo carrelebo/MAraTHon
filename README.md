@@ -51,3 +51,5 @@ plus vite !
 23h09 : Système d'équation et droite, système de deux équation à double inconnue, substitution, combinaison linéaire, interprêtation graphique terminé.
         commentaire: j'étais beaucoup plus à l'aise pour ce chapitre, les équation sont assez simple à résoudre, c'est comme un jeu,
         la mise en équation est à améliorer
+
+**Suspension** (depuis jour 14 21/06/2022) -> DNB (Brevet des collèges)
