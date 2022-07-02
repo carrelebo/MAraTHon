@@ -55,3 +55,10 @@ plus vite !
 **Suspension** (depuis jour 14 21/06/2022) -> DNB (Brevet des collèges)
 
 **Fin du DNB** qui c'est très bien passé malgrès les fuite des sujets de histoire et de sciences (2 juin 2022)
+
+**Jour 15** (2 juillet 2022) : c'est les vacances ! (avancer sûrement)
+
+20h36 : Notions de fonction, équation et inéquation graphique, définitions etc...
+        commentaire : c'est certe les vacances mais il ne faut pas se relacher, et au contraire profiter de cette période du brevet qui vient de passer
+        pour garder les bases et le rhytme intélectuel pour pouvoir réussir ce projet !
+        
