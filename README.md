@@ -60,5 +60,5 @@ plus vite !
 
 20h36 : Notions de fonction, équation et inéquation graphique, définitions etc...
         commentaire : c'est certe les vacances mais il ne faut pas se relacher, et au contraire profiter de cette période du brevet qui vient de passer
-        pour garder les bases et le rhytme intélectuel pour pouvoir réussir ce projet !
+        pour garder les bases et le rhytme intéllectuel pour pouvoir réussir ce projet !
         
