@@ -53,3 +53,5 @@ plus vite !
         la mise en équation est à améliorer
 
 **Suspension** (depuis jour 14 21/06/2022) -> DNB (Brevet des collèges)
+
+**Fin du DNB** qui c'est très bien passé malgrès les fuite des sujets de histoire et de sciences (2 juin 2022)
