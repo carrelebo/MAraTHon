@@ -1,4 +1,4 @@
-# MAraTHon, chapitres complétés : 10/+60 (2 juillet 2022) -> 2nd
+# MAraTHon, chapitres complétés : 11/+60 (3 juillet 2022) -> 2nd
 
 Ce projet à été réaliser pour me rapeler de ma progession sur mon niveau en mathématique, un très gros et long projet qui je pense vaux largement la peine.
 
@@ -61,4 +61,9 @@ plus vite !
 20h36 : Notions de fonction, équation et inéquation graphique, définitions etc... terminé.
         commentaire : c'est certe les vacances mais il ne faut pas se relacher, et au contraire profiter de cette période du brevet qui vient de passer
         pour garder les bases et le rhytme intéllectuel pour pouvoir réussir ce projet !
+        
+**Jour 16** (3 juillet 2022)
+
+21h12 : Fonctions de référecnes, fonction pair et impaire, équations... terminé.
+
         
