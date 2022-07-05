@@ -66,4 +66,9 @@ plus vite !
 
 21h12 : Fonctions de référecnes, fonction pair et impaire, équations... terminé.
 
+**jour 18** (5juillet 2022) répété en boucle
+
+16h23 : Variation d'une fonction, tableau de signe, tableau de variation, inéquation avec fonction de référence terminé.
+        commentaire : revoir et refaire en boucle chaque exercices similaire aide est très long et dense, mais celà aide à comprendre parfairement
+        et par coeur le fonctionnement naicessaire à des démonstration.
         
