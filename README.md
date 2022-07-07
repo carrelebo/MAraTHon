@@ -1,4 +1,4 @@
-# MAraTHon, chapitres complétés : 12/+60 (5 juillet 2022) -> 2nd
+# MAraTHon, chapitres complétés : 13/+60 (7 juillet 2022) -> 2nd
 
 Ce projet à été réaliser pour me rapeler de ma progession sur mon niveau en mathématique, un très gros et long projet qui je pense vaux largement la peine.
 
@@ -71,4 +71,9 @@ plus vite !
 16h23 : Variation d'une fonction, tableau de signe, tableau de variation, inéquation avec fonction de référence terminé.
         commentaire : revoir et refaire en boucle chaque exercices similaire aide est très long et dense, mais celà aide à comprendre parfairement
         et par coeur le fonctionnement naicessaire à des démonstration.
+        
+**jour 20**
+
+11h39 : Information chiffrées, pourcentage, proportion, évolution, taux d'évolution, évolutions successives, évolution réciproque terminé.
+        commentaire: pour être plus productif il faut éviter d'attendre et "y aller de l'avant".
         
