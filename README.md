@@ -56,23 +56,23 @@ plus vite !
 
 **Fin du DNB** qui c'est très bien passé malgrès les fuite des sujets de histoire et de sciences (2 juin 2022)
 
-**Jour 15** (2 juillet 2022) : c'est les vacances ! (avancer sûrement)
+**Jour 15** : (2 juillet 2022) : c'est les vacances ! (avancer sûrement)
 
 20h36 : Notions de fonction, équation et inéquation graphique, définitions etc... terminé.
         commentaire : c'est certe les vacances mais il ne faut pas se relacher, et au contraire profiter de cette période du brevet qui vient de passer
         pour garder les bases et le rhytme intéllectuel pour pouvoir réussir ce projet !
         
-**Jour 16** (3 juillet 2022)
+**Jour 16** : (3 juillet 2022)
 
 21h12 : Fonctions de référecnes, fonction pair et impaire, équations... terminé.
 
-**jour 18** : (5juillet 2022) répété en boucle
+**jour 18** : (5 juillet 2022) répété en boucle
 
 16h23 : Variation d'une fonction, tableau de signe, tableau de variation, inéquation avec fonction de référence terminé.
         commentaire : revoir et refaire en boucle chaque exercices similaire aide est très long et dense, mais celà aide à comprendre parfairement
         et par coeur le fonctionnement naicessaire à des démonstration.
         
-**jour 20**
+**jour 20** : (8 juillet 2022)
 
 11h39 : Information chiffrées, pourcentage, proportion, évolution, taux d'évolution, évolutions successives, évolution réciproque terminé.
         commentaire: pour être plus productif il faut éviter d'attendre et "y aller de l'avant".
