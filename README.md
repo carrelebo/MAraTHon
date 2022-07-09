@@ -1,4 +1,4 @@
-# MAraTHon, chapitres complétés : 13/+60 (7 juillet 2022) -> 2nd
+# MAraTHon, chapitres complétés : 14/+60 (7 juillet 2022) -> 2nd
 
 Ce projet à été réaliser pour me rapeler de ma progession sur mon niveau en mathématique, un très gros et long projet qui je pense vaux largement la peine.
 
@@ -76,4 +76,8 @@ plus vite !
 
 11h39 : Information chiffrées, pourcentage, proportion, évolution, taux d'évolution, évolutions successives, évolution réciproque terminé.
         commentaire: pour être plus productif il faut éviter d'attendre et "y aller de l'avant".
-        
+
+**Jour 22** : (10 juillet 2022) beaucoup de données !
+
+0h03 : Statistique, série, moyenne, médiane, étendue, quartiles,variance/écart-type, diagrame en boite/diagrame moustache terminé.
+       commentaire : calculer des variances et écarts-type tard la nuit c'est quelque chose à vivre
