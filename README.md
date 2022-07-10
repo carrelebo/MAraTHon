@@ -88,3 +88,5 @@ plus vite !
         commentaire, j'ai adorer ce chapitre pour les concepte assez avancer, notament sur l'intersection et la réunion
 
 22h43 : Algorithme, Python (je code déjà dans ce langage de programmation, aucun problème, probabilité, échantilllonage terminé.
+
+**Dimanche 10 juillet 2022 (23h07) -> programme de 2nd terminé !**
