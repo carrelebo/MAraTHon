@@ -81,3 +81,8 @@ plus vite !
 
 0h03 : Statistique, série, moyenne, médiane, étendue, quartiles,variance/écart-type, diagrame en boite/diagrame moustache terminé.
        commentaire : calculer des variances et écarts-type tard la nuit c'est quelque chose à vivre
+
+**Jour 23** (10 juillet 2022) bientôt la premère fin
+
+15h56 : Probabilité, éxpérience aléatoire, probabilité, évènement, expérience deux niveau (arbre probas), réunion et intersection, tableau
+        commentaire, j'ai adorer ce chapitre pour les concepte assez avancer, notament sur l'intersection et la réunion
