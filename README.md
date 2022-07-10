@@ -1,4 +1,4 @@
-# MAraTHon, chapitres complétés : 15/+60 (7 juillet 2022) -> 2nd
+# MAraTHon, chapitres complétés : 16/+60 (10 juillet 2022) -> 2nd
 
 Ce projet à été réaliser pour me rapeler de ma progession sur mon niveau en mathématique, un très gros et long projet qui je pense vaux largement la peine.
 
@@ -84,5 +84,7 @@ plus vite !
 
 **Jour 23** (10 juillet 2022) bientôt la premère fin
 
-15h56 : Probabilité, éxpérience aléatoire, probabilité, évènement, expérience deux niveau (arbre probas), réunion et intersection, tableau
+15h56 : Probabilité, éxpérience aléatoire, probabilité, évènement, expérience deux niveau (arbre probas), réunion et intersection, tableau terminé.
         commentaire, j'ai adorer ce chapitre pour les concepte assez avancer, notament sur l'intersection et la réunion
+
+22h43 : Algorithme, Python (je code déjà dans ce langage de programmation, aucun problème, probabilité, échantilllonage terminé.
