@@ -1,4 +1,4 @@
-# MAraTHon, chapitres complétés : 16/+60 (11 juillet 2022) -> 1ère
+# MAraTHon, chapitres complétés : 16/+60 (11 juillet 2022) -> 1ère Spé
 
 Ce projet à été réaliser pour me rapeler de ma progession sur mon niveau en mathématique, un très gros et long projet qui je pense vaux largement la peine.
 
