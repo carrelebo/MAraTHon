@@ -9,6 +9,7 @@ Progression du projet : programme lycée maths
 
 **Jour 25** : (12 juillet 2022)
               Suite, généralités, définition, réprésentation, variation, limite... terminé.
+              
               commentaire : programme qui commence bien, super intéressant, certaine notion que je ne connais pas totalement ont été utilisées
               comme la dérivation pour les variation, mais celà ne fait rien, je sais au moins à que celà servira pour les prochain chapitres.
               
