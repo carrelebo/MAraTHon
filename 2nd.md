@@ -10,7 +10,8 @@ Progression du projet : programme lycée maths
                            
 **Jour 2** : (2 Avril 2022) : Fin des notions de bases, le début des nouvelles notions !
 
-12h12 : puissances et racine carré (fin des notions de bases) terminé, 
+12h12 : puissances et racine carré (fin des notions de bases) terminé,
+
 commentaire : c'était très dure de reprendre les bases avec les formule d'on certaines que je ne connaissais pas 
 et ce n'est seulement le début, mais c'est au moins une barrière de franchis pour commencé sur de bonnes bases le programme du lycée
 
@@ -20,6 +21,7 @@ commentaire : encore plus dure, plusieurs nouvelles notions, mais dans l'ensembl
 **Jour 3** : (4 avril 2022) : Plus (+) de démostrations
 
 0h20 : notation de multiple, diviseur et nombre premier (avec démo et exercice pour démo nombre paire et impaire) terniné.
+
       commentaire : Je démontre mieu que avant, mais des difficulté sur la rédaction
 
 4avril 2022 - 11juin : suspension
@@ -27,6 +29,7 @@ commentaire : encore plus dure, plusieurs nouvelles notions, mais dans l'ensembl
 **Jour 4** (11 juin 2022) : entré dans les nouvelles notions du niveau de Seconde
 
 17h01 : équation, inéquation, produit et quotient, tableau de signes... terminé.
+
         commentaire : après ce chapitre je rentrerai dans des notions que je n'est encore presque jamais appris, cela montre une progression.
 
 23h32 : les vecteur terminé.
@@ -35,7 +38,8 @@ commentaire : encore plus dure, plusieurs nouvelles notions, mais dans l'ensembl
 **Jour 5** (12 juin 2022) : le programme commence à être très dense
 
 13h19 : vecteurs et repérage, repère, coordonées d'un vecteur, colonéarité, millieu, distance, formules... terminé.
-        commentaire : ça a été très dense, il y a beaucoup de formules et de nouvelle notions, et il faut bien les assimilé.
+
+        commentaire : ça a été très dense, il y a beaucoup de formules et de nouvelles notions, et il faut bien les assimilé.
         
         
 **EVENEMENT** (14 juin 2022, 20h43) : "explosion", fini de rigoler et jouer, je perds à chaque fois énormement de temps et je ne me
@@ -45,10 +49,12 @@ plus vite !
 **Jour 11** (18juin 2022) : il faut répéter pour comprendre
 
 14h19 : Droites du plan, équation cartésienne, équation réduite, position relative... terminé.
+
         commentaire : encore beaucoup de nouvelle notion, j'ai pris beaucoup plus de temps pour comprendre, mais comme d'habitude,
         il suffit de faire et refaire des exercice et bien écouté pour que celà devient très simple.
         
 23h09 : Système d'équation et droite, système de deux équation à double inconnue, substitution, combinaison linéaire, interprêtation graphique terminé.
+
         commentaire: j'étais beaucoup plus à l'aise pour ce chapitre, les équation sont assez simple à résoudre, c'est comme un jeu,
         la mise en équation est à améliorer
 
@@ -59,6 +65,7 @@ plus vite !
 **Jour 15** : (2 juillet 2022) : c'est les vacances ! (avancer sûrement)
 
 20h36 : Notions de fonction, équation et inéquation graphique, définitions etc... terminé.
+
         commentaire : c'est certe les vacances mais il ne faut pas se relacher, et au contraire profiter de cette période du brevet qui vient de passer
         pour garder les bases et le rhytme intéllectuel pour pouvoir réussir ce projet !
         
@@ -69,22 +76,26 @@ plus vite !
 **jour 18** : (5 juillet 2022) répété en boucle
 
 16h23 : Variation d'une fonction, tableau de signe, tableau de variation, inéquation avec fonction de référence terminé.
+
         commentaire : revoir et refaire en boucle chaque exercices similaire aide est très long et dense, mais celà aide à comprendre parfairement
         et par coeur le fonctionnement naicessaire à des démonstration.
         
 **jour 20** : (8 juillet 2022)
 
 11h39 : Information chiffrées, pourcentage, proportion, évolution, taux d'évolution, évolutions successives, évolution réciproque terminé.
+
         commentaire: pour être plus productif il faut éviter d'attendre et "y aller de l'avant".
 
 **Jour 22** : (10 juillet 2022) beaucoup de données !
 
 0h03 : Statistique, série, moyenne, médiane, étendue, quartiles,variance/écart-type, diagrame en boite/diagrame moustache terminé.
+
        commentaire : calculer des variances et écarts-type tard la nuit c'est quelque chose à vivre
 
 **Jour 23** (10 juillet 2022) bientôt la premère fin
 
 15h56 : Probabilité, éxpérience aléatoire, probabilité, évènement, expérience deux niveau (arbre probas), réunion et intersection, tableau terminé.
+
         commentaire, j'ai adorer ce chapitre pour les concepte assez avancer, notament sur l'intersection et la réunion
 
 22h43 : Algorithme, Python (je code déjà dans ce langage de programmation, aucun problème, probabilité, échantilllonage terminé.
