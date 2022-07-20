@@ -13,9 +13,17 @@ Progression du projet : programme lycée maths
               commentaire : programme qui commence bien, super intéressant, certaine notion que je ne connais pas totalement ont été utilisées
               comme la dérivation pour les variation, mais celà ne fait rien, je sais au moins à que celà servira pour les prochain chapitres.
               
-**Jour 29** (16 juillet 2022) : Suite, arithmétique, géométrique, somme de termes, démonstration, formule : somme de Gauss (n(n+1))/2 ;
+**Jour 29** : (16 juillet 2022)
+              Suite, arithmétique, géométrique, somme de termes, démonstration, formule : somme de Gauss (n(n+1))/2 ;
               somme des termes géomértique (1-q^(n+1))/(1-q) terminé.
               
               commentaire : il faut que je suis moins lent et plus efficace, si je prend encore beaucoup de temps entre chaque chappitre
               je n'atteinderai pas mes objectifs; les prochains chapitres sont ceux que j'attendais depuis le début du projet, celà fait
               plaisir qu'il avance encore :)
+
+**Jour 33** : (20 juillet 2022)
+              Fonction du second degré et équation du second degrès, définitions, forme canonique, variation et représentation,
+              résolution d'une équation du second degré, démonstration de la formule pour résoudre une équation du second degrès,
+              factorisation d'un trinôme, signe d'un trinôme, tableau de signe, inéquations terminé.
+              
+              commentaire : super chapitre mais très long.
