@@ -1,4 +1,4 @@
-# MAraTHon, chapitres complétés : 19/+60 (16 juillet 2022) -> 1ère Spé
+# MAraTHon, chapitres complétés : 20/+60 (16 juillet 2022) -> 1ère Spé
 
 Ce projet à été réaliser pour me rapeler de ma progession sur mon niveau en mathématique, un très gros et long projet qui je pense vaux largement la peine.
 
@@ -27,3 +27,10 @@ Progression du projet : programme lycée maths
               factorisation d'un trinôme, signe d'un trinôme, tableau de signe, inéquations terminé.
               
               commentaire : super chapitre mais très long.
+              
+**Jour 38** : (25 juillet 2022)
+              Dérivation, nombre dérivé, tangente à une courbe, formule de dérivation, variations de fonctions, démonstrations, équation tangente,
+              inéquation et équations avec valeur absolue, résolutions d'inéquations avec variation d'une fonction terminé.
+
+              commentaire : chapitre encore très long, mais très intéressant, c'est une étape de faite avant l'intégration en terminale,
+              tous les "grand chapitres" du programme sont terminés, il reste les plus courte, et il faut toujours rester concentré au maximum !
