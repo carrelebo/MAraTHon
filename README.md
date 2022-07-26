@@ -1,4 +1,4 @@
-# MAraTHon, chapitres complétés : 20/+60 (25 juillet 2022) -> 1ère Spé
+# MAraTHon, chapitres complétés : 21/+60 (26 juillet 2022) -> 1ère Spé
 
 Ce projet à été réaliser pour me rapeler de ma progession sur mon niveau en mathématique, un très gros et long projet qui je pense vaux largement la peine.
 
@@ -34,3 +34,10 @@ Progression du projet : programme lycée maths
 
               commentaire : chapitre encore très long, mais très intéressant, c'est une étape de faite avant l'intégration en terminale,
               tous les "grand chapitres" du programme sont terminés, il reste les plus courte, et il faut toujours rester concentré au maximum !
+
+**Jour 39** : (26 juillet 2022)
+
+16h11 : Fonction expodentielle, définitions, étude (valeurs et variations), propriétés, nombre "e" et notations avec expodentielles, autres propriétes
+        dérivations, suites géométriques, équations et inéquations
+        
+        commentaire : c'est un chapitre très simple et super pour revoir les bases de la distributivité avec les exposants.
