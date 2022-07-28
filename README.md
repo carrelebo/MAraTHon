@@ -1,4 +1,4 @@
-# MAraTHon, chapitres complétés : 21/+60 (26 juillet 2022) -> 1ère Spé
+# MAraTHon, chapitres complétés : 22/+60 (28 juillet 2022) -> 1ère Spé
 
 Ce projet à été réaliser pour me rapeler de ma progession sur mon niveau en mathématique, un très gros et long projet qui je pense vaux largement la peine.
 
@@ -41,3 +41,10 @@ Progression du projet : programme lycée maths
         dérivations, suites géométriques, équations et inéquations
         
         commentaire : c'est un chapitre très simple et super pour revoir les bases de la distributivité avec les exposants.
+        
+**Jour 41** : (28 juillet 2022)
+
+13h50 : Trigonométrie, cercle trigonométrique, radian, cosinus et sinus, fonciton trigonométrique (cosinus et sinus), propriétés et équations terminé.
+        
+        commentaire : comme pour la plupart des chapitres, au début je ne comprenais rien, et petit à petit ça viens et, on deviens très à l'aise
+        avec les nouvelle notions.
