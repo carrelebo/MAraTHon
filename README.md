@@ -1,4 +1,4 @@
-# MAraTHon, chapitres complétés : 22/+60 (28 juillet 2022) -> 1ère Spé
+# MAraTHon, chapitres complétés : 23/+60 (30 juillet 2022) -> 1ère Spé
 
 Ce projet à été réaliser pour me rapeler de ma progession sur mon niveau en mathématique, un très gros et long projet qui je pense vaux largement la peine.
 
@@ -48,3 +48,11 @@ Progression du projet : programme lycée maths
         
         commentaire : comme pour la plupart des chapitres, au début je ne comprenais rien, et petit à petit ça viens et, on deviens très à l'aise
         avec les nouvelle notions.
+        
+**Jour 43** : (30 juillet 2022)
+
+19h04 : Produit scalaire, produit scalaire et cosinus, propriétés (comutativité et distributivité), produit scalaire et orthogonalité,
+        produit scalaire et coordonées théorème d'Al-kashi, temriné.
+        
+        commentaire : le chapitre était assez dure, les formule sont lourdes mais on s'y habitue assez rapidement en faisais quelque liens
+        avec d'autres théorèmes, et il faut prendre la ou les formules les plus avantageuse selon le problème que l'on doit résoudre.
