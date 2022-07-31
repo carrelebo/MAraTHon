@@ -1,4 +1,4 @@
-# MAraTHon, chapitres complétés : 23/+60 (30 juillet 2022) -> 1ère Spé
+# MAraTHon, chapitres complétés : 24/+60 (31 juillet 2022) -> 1ère Spé
 
 Ce projet à été réaliser pour me rapeler de ma progession sur mon niveau en mathématique, un très gros et long projet qui je pense vaux largement la peine.
 
@@ -56,3 +56,13 @@ Progression du projet : programme lycée maths
         
         commentaire : le chapitre était assez dure, les formule sont lourdes mais on s'y habitue assez rapidement en faisais quelque liens
         avec d'autres théorèmes, et il faut prendre la ou les formules les plus avantageuse selon le problème que l'on doit résoudre.
+        
+**Jour 44** : (31 juillet 2022)
+
+14h06 : Géométrie repérée, équations cartésiennes, équation réduite, position relative, vecteur normale, coodonnées du projecté orthogonale,
+        équation d'un cercle terminé.
+        
+        commentaire : ça a été un chapitre en même temps simple et complexe, c'était une révision de ce qu'on fait en seconde avec des éléments de première,
+        j'ai trouvé ce chapitre très intéressant car tous les outils et les méthodse que l'on utilise en seconde comme le déterminant ou en première avec
+        le produit scalaire peuvent être utiliser pour résoudre des problème, ce qui entraine une diversité de solutions plus ou moins intéressant,
+        sinon c'était spéciale.
