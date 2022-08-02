@@ -66,3 +66,12 @@ Progression du projet : programme lycée maths
         j'ai trouvé ce chapitre très intéressant car tous les outils et les méthodse que l'on utilise en seconde comme le déterminant ou en première avec
         le produit scalaire peuvent être utiliser pour résoudre des problème, ce qui entraine une diversité de solutions plus ou moins intéressant,
         sinon c'était spéciale.
+
+**Jour 46 ** : (3 août 222)
+
+0h29 : probabilité conditionnelle et indépendence, notion de probabilité conditionnelle, arbre de probabilité, formule probabilité total,
+       évèments intépendents et notations terminé.
+       
+       commentaire : encore très satisfait sur les probabilité, chapitre très intéressant et précis, ce sont les première notions de terminale
+       avant l'entré dans ce programme, j'ai fait quelque exercice qui viennent des sujet du bac, vraiment simple si l'on sais
+       très bien organisé les différente données sur les énnoncer.
