@@ -1,6 +1,6 @@
-# MAraTHon, chapitres complétés : 24/+60 (31 juillet 2022) -> 1ère Spé
+# MAraTHon, chapitres complétés : 25/+60 (3 août 2022) -> 1ère Spé
 
-Ce projet à été réaliser pour me rapeler de ma progession sur mon niveau en mathématique, un très gros et long projet qui je pense vaux largement la peine.
+Ce projet à été réaliser pour me rappeler de ma progession sur mon niveau en mathématiques, un très gros et long projet qui je pense vaux largement la peine.
 
 Progression du projet : programme lycée maths
 
