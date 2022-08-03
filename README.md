@@ -85,3 +85,4 @@ Progression du projet : programme lycée maths
         
 23h04 : Algorithme Python (suite) terminé.
 
+**Mercredi 3 août 2022 (23h06) -> programme de 1ère terminé !**
