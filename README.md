@@ -82,4 +82,6 @@ Progression du projet : programme lycée maths
 
         commentaire : comme d'habiude, j'ai un peu peur à ne pas comprendre le chapitre, mais ça vient progressivement à force
         de faire des éxercice et de bien écouter les cours, la variance ne me fait plus peur, surtout bien traité les donné des énnoncer !.
+        
+23h04 : Algorithme Python (suite) terminé.
 
