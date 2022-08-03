@@ -1,4 +1,4 @@
-# MAraTHon, chapitres complétés : 25/+60 (3 août 2022) -> 1ère Spé
+# MAraTHon, chapitres complétés : 26/+60 (3 août 2022) -> 1ère Spé
 
 Ce projet à été réaliser pour me rappeler de ma progession sur mon niveau en mathématiques, un très gros et long projet qui je pense vaux largement la peine.
 
@@ -67,11 +67,19 @@ Progression du projet : programme lycée maths
         le produit scalaire peuvent être utiliser pour résoudre des problème, ce qui entraine une diversité de solutions plus ou moins intéressant,
         sinon c'était spéciale.
 
-**Jour 46 ** : (3 août 222)
+**Jour 46 ** : (3 août 2022)
 
-0h29 : probabilité conditionnelle et indépendence, notion de probabilité conditionnelle, arbre de probabilité, formule probabilité total,
+0h29 : Probabilité conditionnelle et indépendence, notion de probabilité conditionnelle, arbre de probabilité, formule probabilité total,
        évèments intépendents et notations terminé.
        
        commentaire : encore très satisfait sur les probabilité, chapitre très intéressant et précis, ce sont les première notions de terminale
        avant l'entré dans ce programme, j'ai fait quelque exercice qui viennent des sujet du bac, vraiment simple si l'on sais
        très bien organisé les différente données sur les énnoncer.
+       
+**Jour 47** : (3 août 2022)
+
+22h28 : Variable aléatoire, définition, loi de probabilité, espérance, variance et écarts-type, changement de variable terminé
+
+        commentaire : comme d'habiude, j'ai un peu peur à ne pas comprendre le chapitre, mais ça vient progressivement à force
+        de faire des éxercice et de bien écouter les cours, la variance ne me fait plus peur, surtout bien traité les donné des énnoncer !.
+
