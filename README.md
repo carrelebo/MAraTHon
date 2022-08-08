@@ -1,4 +1,4 @@
-# MAraTHon, chapitres complétés : 27/+60 (8 août 2022) -> Tale Spé
+# MAraTHon, chapitres complétés : 28/+60 (8 août 2022) -> Tale Spé
 
 Ce projet à été réaliser pour me rappeler de ma progession sur mon niveau en mathématiques, un très gros et long projet qui je pense vaux largement la peine.
 
@@ -16,3 +16,6 @@ Progression du projet : programme lycée maths
         
         commentaire : très long chapitre, assez complet, j'ai adoré le resonnement par récurrence qui permet de prouver des propriété sur des suites
         et la façon dans là quelle on traite les données sur les suites arithmético-géométrique pour trouver une forme principale en fonction de n.
+
+20h37 : Limites des fonctions, introduction, limite infinie à fini, limite finie à l'infini, limie en un réel, limite à gauche et à droite (asymptote),
+        et calculs de limites.
