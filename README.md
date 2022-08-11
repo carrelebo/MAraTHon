@@ -19,3 +19,10 @@ Progression du projet : programme lycée maths
 
 20h37 : Limites des fonctions, introduction, limite infinie à fini, limite finie à l'infini, limie en un réel, limite à gauche et à droite (asymptote),
         et calculs de limites.
+
+**Jour 55** : (11 août 2022)
+
+14h56 : Dérivation, ce qui a été vue en première, fonciton composée, diviré d'une fonction composée, étude de fonction et fonction exponentielle.
+        
+        commentaire : au fur et à mesure des chapitres on peut de mieux en mieux étudier une fonction jusqu'à pouvoir donner une représentation
+        graphique sans même connaître toute les image d'une fonction et je trouve ça très intéressant.
