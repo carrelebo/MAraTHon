@@ -37,7 +37,7 @@ Progression du projet : programme lycée maths
 
 **Jour 39** : (26 juillet 2022)
 
-16h11 : Fonction expodentielle, définitions, étude (valeurs et variations), propriétés, nombre "e" et notations avec expodentielles, autres propriétes
+16h11 : Fonction exponentielle, définitions, étude (valeurs et variations), propriétés, nombre "e" et notations avec exponentielles, autres propriétes
         dérivations, suites géométriques, équations et inéquations
         
         commentaire : c'est un chapitre très simple et super pour revoir les bases de la distributivité avec les exposants.
