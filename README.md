@@ -1,4 +1,4 @@
-# MAraTHon, chapitres complétés : 28/+60 (8 août 2022) -> Tale Spé
+# MAraTHon, chapitres complétés : 29/+60 (13 août 2022) -> Tale Spé
 
 Ce projet à été réaliser pour me rappeler de ma progession sur mon niveau en mathématiques, un très gros et long projet qui je pense vaux largement la peine.
 
@@ -26,3 +26,11 @@ Progression du projet : programme lycée maths
         
         commentaire : au fur et à mesure des chapitres on peut de mieux en mieux étudier une fonction jusqu'à pouvoir donner une représentation
         graphique sans même connaître toute les image d'une fonction et je trouve ça très intéressant.
+
+**Jour 57 ** : (13 août 2022)
+
+14h10 : Continuité, notion de continuité, exemples et contre exemples, définition, théorème des valeur intermédiaaire et stricte monotonie,
+        limite d'une suite arithmético-géométrique et algorithme de Dichotomie.
+        
+        commentaire : la notion de continuité est parfaite pour exprimer avec certitude qu'il y a un telle nombre de solution, cela augmente
+        les précision sur plusieurs résultats que l'on peut fournir.
