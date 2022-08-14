@@ -1,4 +1,4 @@
-# MAraTHon, chapitres complétés : 30/+60 (13 août 2022) -> Tale Spé
+# MAraTHon, chapitres complétés : 31/+60 (15 août 2022) -> Tale Spé
 
 Ce projet à été réaliser pour me rappeler de ma progession sur mon niveau en mathématiques, un très gros et long projet qui je pense vaux largement la peine.
 
@@ -34,3 +34,7 @@ Progression du projet : programme lycée maths
         
         commentaire : la notion de continuité est parfaite pour exprimer avec certitude qu'il y a un telle nombre de solution, cela augmente
         les précision sur plusieurs résultats que l'on peut fournir.
+
+**Jour 58** : (15aôut 2022)
+
+0h04 : Convexité, dérivée seconde, fonciton convexe, fonciton concave, point d'infléxion, étude de fonctions.
