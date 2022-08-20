@@ -1,4 +1,4 @@
-# MAraTHon, chapitres complétés : 32/+60 (18 août 2022) -> Tale Spé
+# MAraTHon, chapitres complétés : 33/+60 (21 août 2022) -> Tale Spé
 
 Ce projet à été réaliser pour me rappeler de ma progession sur mon niveau en mathématiques, un très gros et long projet qui je pense vaux largement la peine.
 
@@ -39,8 +39,15 @@ Progression du projet : programme lycée maths
 
 0h04 : Convexité, dérivée seconde, fonciton convexe, fonciton concave, point d'infléxion, étude de fonctions.
 
-*Jour 61* (18 août 2022)
+**Jour 61** (18 août 2022)
 
 17h21 : Fonction logarithmique, définitions, propriété, étude, croissances comparées, équations avec puissances, dérivation, calules de limites
         et études de fonctions.
+        
+**Jour 63** (21 août 2022)
+
+1H08 : Fonctions trigonométriquesn ce qui a été vue en première, équation avec cosinus et sinus, calcule de limite avec cosinus et sinus,
+       et étude de fonction.
+       
+       commentaire : je commence à prendre goût à l'études de fonction avec les nombreux outils cela devient comme un jeu de précision.
                      
