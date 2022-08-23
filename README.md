@@ -1,4 +1,4 @@
-# MAraTHon, chapitres complétés : 34/+60 (21 août 2022) -> Tale Spé
+# MAraTHon, chapitres complétés : 34/+60 (23 août 2022) -> Tale Spé
 
 Ce projet à été réaliser pour me rappeler de ma progession sur mon niveau en mathématiques, un très gros et long projet qui je pense vaux largement la peine.
 
@@ -51,4 +51,6 @@ Progression du projet : programme lycée maths
        
        commentaire : je commence à prendre goût à l'études de fonction avec les nombreux outils cela devient comme un jeu de précision.
                      
-**Jour 65** : Équation différentielle, notion d'équation différentielle, E.D du type y' = ay ; y' = ay + b; et y' = ay + f.
+**Jour 65** : 
+
+13H10 : Équation différentielle, notion d'équation différentielle, E.D du type y' = ay ; y' = ay + b; et y' = ay + f.
