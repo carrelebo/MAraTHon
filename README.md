@@ -58,5 +58,5 @@ Progression du projet : programme lycée maths
 **Jour 67** : (25aôut 2022)
 
 12h39 : Intégration, intégrale et aire, notation, unité d'aire, intégrale et rectangle, primitives, calcul intégrale, propriétées, valeur moyenne,
-        encadrement, calcule d'une aire entre deux courbe, intégration par partie et suite définie par une intégrale.
+        encadrement, calcule d'une aire entre deux courbes, intégration par partie et suite définie par une intégrale.
      
