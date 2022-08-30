@@ -1,4 +1,4 @@
-# MAraTHon, chapitres complétés : 36/+60 (28 août 2022) -> Tale Spé
+# MAraTHon, chapitres complétés : 37/+60 (30 août 2022) -> Tale Spé
 
 Ce projet à été réaliser pour me rappeler de ma progession sur mon niveau en mathématiques, un très gros et long projet qui je pense vaux largement la peine.
 
@@ -60,7 +60,13 @@ Progression du projet : programme lycée maths
 12h39 : Intégration, intégrale et aire, notation, unité d'aire, intégrale et rectangle, primitives, calcul intégrale, propriétées, valeur moyenne,
         encadrement, calcule d'une aire entre deux courbes, intégration par partie et suite définie par une intégrale.
     
-Jour 70: (28 aôut 2022)
+**Jour 70** (28 aôut 2022)
 
 20h35 : Combinatoire, Dénombrement, principe multiplicatif, arragement sans répétition, arragnement avec répétition, permutation, combinaison,
         coefficient binomiale et triangle de pascale.
+
+**Jour 72** (30 août 2022)
+
+11h34 : Vecteurs, Droites, Plan de l'espaces, droites coplanaires, positions relatifs, parallélisme, orthogonalité, base de l'espaces,
+        décompositions de vecteurs dans une base, alignements et coordonnées dans l'espace.
+        
