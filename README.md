@@ -70,4 +70,4 @@ Progression du projet : programme lycée maths
 11h34 : Vecteurs, Droites, Plan de l'espaces, droites coplanaires, positions relatifs, parallélisme, orthogonalité, base de l'espaces,
         décompositions de vecteurs dans une base, alignements et coordonnées dans l'espace.
         
-**1/09/2022 : rentré scolaire en classe de Seconde Générale-Technologique**
+**1/09/2022 : Rentré scolaire en classe de Seconde Générale-Technologique**
