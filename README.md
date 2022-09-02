@@ -71,3 +71,5 @@ Progression du projet : programme lycée maths
         décompositions de vecteurs dans une base, alignements et coordonnées dans l'espace.
         
 **1/09/2022 : Rentré scolaire en classe de Seconde Générale-Technologique**
+
+**2/09/2022, "ce n'est que le début !"
