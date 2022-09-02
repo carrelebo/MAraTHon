@@ -72,4 +72,4 @@ Progression du projet : programme lycée maths
         
 **1/09/2022 : Rentré scolaire en classe de Seconde Générale-Technologique**
 
-**2/09/2022, "ce n'est que le début !"
+**2/09/2022, "ce n'est que le début !"**
