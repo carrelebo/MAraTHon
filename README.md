@@ -1,4 +1,4 @@
-# MAraTHon, chapitres complétés : 37/+60 (1 septembre 2022) -> Tale Spé
+# MAraTHon, chapitres complétés : 38/+60 (4 septembre 2022) -> Tale Spé
 
 Ce projet à été réaliser pour me rappeler de ma progession sur mon niveau en mathématiques, un très gros et long projet qui je pense vaux largement la peine.
 
@@ -73,3 +73,9 @@ Progression du projet : programme lycée maths
 **1/09/2022 : Rentré scolaire en classe de Seconde Générale-Technologique**
 
 **2/09/2022, "ce n'est que le début !"**
+
+**Jour 78** (4 septembre 2022)
+
+22h19 : Produit scalaire dans l'espace, ce qui à été vue avec le produit scalaire en première, définitions et propriété, produit scalaire dans un repère et
+        base de l'espace orthonormé, vecteur normal à un plan et distance d'un point par rapport à son projecter orthogonal.
+        
