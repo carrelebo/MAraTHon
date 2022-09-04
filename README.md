@@ -60,12 +60,12 @@ Progression du projet : programme lycée maths
 12h39 : Intégration, intégrale et aire, notation, unité d'aire, intégrale et rectangle, primitives, calcul intégrale, propriétées, valeur moyenne,
         encadrement, calcule d'une aire entre deux courbes, intégration par partie et suite définie par une intégrale.
     
-**Jour 70** (28 aôut 2022)
+**Jour 70** : (28 aôut 2022)
 
 20h35 : Combinatoire, Dénombrement, principe multiplicatif, arragement sans répétition, arragnement avec répétition, permutation, combinaison,
         coefficient binomiale et triangle de pascale.
 
-**Jour 72** (30 août 2022)
+**Jour 72** : (30 août 2022)
 
 11h34 : Vecteurs, Droites, Plan de l'espaces, droites coplanaires, positions relatifs, parallélisme, orthogonalité, base de l'espaces,
         décompositions de vecteurs dans une base, alignements et coordonnées dans l'espace.
@@ -74,7 +74,7 @@ Progression du projet : programme lycée maths
 
 **2/09/2022, "ce n'est que le début !"**
 
-**Jour 78** (4 septembre 2022)
+**Jour 78** : (4 septembre 2022)
 
 22h19 : Produit scalaire dans l'espace, ce qui à été vue avec le produit scalaire en première, définitions et propriété, produit scalaire dans un repère et
         base de l'espace orthonormé, vecteur normal à un plan et distance d'un point par rapport à son projecter orthogonal.
