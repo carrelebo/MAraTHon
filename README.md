@@ -1,6 +1,6 @@
-# MAraTHon, chapitres complétés : 39/+60 (14 septembre 2022) -> Tale Spé
+# MAraTHon, chapitres complétés : 30/+60 (1 octobre 2022) -> Tale Spé
 
-Ce projet à été réaliser pour me rappeler de ma progession sur mon niveau en mathématiques, un très gros et long projet qui je pense vaux largement la peine.
+Ce projet à été réaliser pour me rappeler de ma progession sur mon niveau en mathématiques, un très gros et long projet qui je pense vaut largement la peine.
 
 Progression du projet : programme lycée maths
 
@@ -81,5 +81,15 @@ Progression du projet : programme lycée maths
         
 **Jour 88** : (14 septembre 2022)
 
-16h17 : Représentation paramétique et Équation cartésionne, réprésentaiton paramétrique, équation cartésienne sur une base et position relatif droite               et plan
+16h17 : Représentation paramétique et Équation cartésienne, réprésentaiton paramétrique, équation cartésienne sur une base et position relatif droite               et plan
         
+** Jour 105 ** : (14 septembre 2022)
+
+16h10 : Variable aléatoire, Epreuves de Bernoulli, loi de bernoulli, espérance, variance, écarts-type, répétition d'expérience, schéma de bernoulli, loi binomiale,
+        variable aléatoire moyenne, inégalité de Bienaymé-Tchebychev et inégalité de concentration.
+        
+        commentaire : sa faisait longtemps que je n'avais pas fait de commentaire, je prends beaucoup plus de temps par rapport au vacance pour
+        continuer se projet qui est bientôt fini pour le programme du lycée ! Il faudra que je revois ma méthode de travailes et mes certaines
+        habitude qui m'empêche d'être aussi rapide, en tout cas celà fait un mois depuis ma rentré scolaire et si je devais répondre à mon espérence
+        de début de projet "un très gros et long projet qui je pense vaut largement la peine", ma réponse sera que sa en vaut la peine et même plus !
+        Ce projet ou exprérience montre que il n'y a pas de secret, le travaille paye lorsque l'on dépense et exploite bien son temps.
