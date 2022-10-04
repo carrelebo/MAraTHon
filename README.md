@@ -83,7 +83,7 @@ Progression du projet : programme lycée maths
 
 16h17 : Représentation paramétique et Équation cartésienne, réprésentaiton paramétrique, équation cartésienne sur une base et position relatif droite               et plan
         
-** Jour 105 ** : (14 septembre 2022)
+** Jour 105 ** : (1 octobre 2022)
 
 16h10 : Variable aléatoire, Epreuves de Bernoulli, loi de bernoulli, espérance, variance, écarts-type, répétition d'expérience, schéma de bernoulli, loi binomiale,
         variable aléatoire moyenne, inégalité de Bienaymé-Tchebychev et inégalité de concentration.
