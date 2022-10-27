@@ -100,5 +100,4 @@ Progression du projet : programme lycée maths
         
         commentaire : c'était long, certains sujets était plus intéresant que d'autres, en tout cas je suis content de les avoir compris.
  
-
-
+**Jeudi 27 octobre 2022 (10h52) -> Programme de Terminale terminé !**
