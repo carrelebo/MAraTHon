@@ -1,4 +1,4 @@
-# MAraTHon, chapitres complétés : 30/+60 (1 octobre 2022) -> Tale Spé
+# MAraTHon, chapitres complétés : 30/+60 (27 octobre 2022) -> Tale Spé
 
 Ce projet à été réaliser pour me rappeler de ma progession sur mon niveau en mathématiques, un très gros et long projet qui je pense vaut largement la peine.
 
@@ -83,7 +83,7 @@ Progression du projet : programme lycée maths
 
 16h17 : Représentation paramétique et Équation cartésienne, réprésentaiton paramétrique, équation cartésienne sur une base et position relatif droite               et plan
         
-** Jour 105 ** : (1 octobre 2022)
+**Jour 105** : (1 octobre 2022)
 
 16h10 : Variable aléatoire, Epreuves de Bernoulli, loi de bernoulli, espérance, variance, écarts-type, répétition d'expérience, schéma de bernoulli, loi binomiale,
         variable aléatoire moyenne, inégalité de Bienaymé-Tchebychev et inégalité de concentration.
@@ -93,3 +93,12 @@ Progression du projet : programme lycée maths
         habitude qui m'empêche d'être aussi rapide, en tout cas celà fait un mois depuis ma rentré scolaire et si je devais répondre à mon espérence
         de début de projet "un très gros et long projet qui je pense vaut largement la peine", ma réponse sera que sa en vaut la peine et même plus !
         Ce projet ou exprérience montre que il n'y a pas de secret, le travaille paye lorsque l'on dépense et exploite bien son temps.
+        
+**Jour 131** : (27 octobre 2022)
+
+10h47 : Sujets de BAC traités en fonction des chapitre
+        
+        commentaire : c'était long, certains sujets était plus intéresant que d'autres, en tout cas je suis content de les avoir compris.
+ 
+
+
