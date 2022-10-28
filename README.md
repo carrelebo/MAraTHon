@@ -4,7 +4,7 @@ Ce projet à été réaliser pour me rappeler de ma progession sur mon niveau en
 
 Progression du projet : programme lycée maths
 
-**Programme de de terminale spé "Tale** : https://github.com/carrelebo/MAraTHon/blob/main/Tale.md
+**Programme de de terminale spé "Tale"** : https://github.com/carrelebo/MAraTHon/blob/main/Tale.md
 
 **Programme de première spé "1ere"** : https://github.com/carrelebo/MAraTHon/blob/main/1ere.md
 
