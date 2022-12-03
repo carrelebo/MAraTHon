@@ -1,4 +1,4 @@
-# MAraTHon, chapitres complétés : 41/+60 (28 octobre 2022) -> Tale Maths expertes
+# MAraTHon, chapitres complétés : 43/+60 (3 décembre 2022) -> Tale Maths expertes
 
 Ce projet à été réaliser pour me rappeler de ma progession sur mon niveau en mathématiques, un très gros et long projet qui je pense vaut largement la peine.
 
@@ -17,3 +17,13 @@ Progression du projet : programme lycée maths
         et factorisation d'une équation de degrès 3 avec racine évidentes.
         
         commentaire : ça commence à être largement plus intéressant, hâte de voir la suite. 
+
+**Jour 196** (3 décembre 2022)
+
+20h52 : Chapitres sur l'arithmétiques, divisibilité, congruence, cryptographie, PGCD, PPCM, diviseur commun, nombres premiers entre eux, identité de Bezout, 
+        théorème de Bezout, inverse modulo n, théorème de Gauss, corolaire de Gauss, équation diophantienne sans système d'équation, décomposition en facteurs
+        de nombres premiers, et théorème de Fermat.
+        
+        commentaire : Je sais que j'ai était long juste pour ça, je travaillais sur d'autres projets et sur le calcul d'intégration un peu plus poussé
+        comme avec le changement de variable...
+        
