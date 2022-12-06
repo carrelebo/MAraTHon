@@ -30,4 +30,6 @@ Progression du projet : programme lycée maths
 
 **Jour 199 (6 décembre 2022)
 
-9h00 : Matrices, somme de matrices, produit de matrices par un réel, produit d'une matrice carré par une matrice colonne, produit de deux matrices carré, puissance d'une matrice, conditions pour qu'une matrice soit inversible, inverse d'une matrice, équation matricielle, réseaudre système d'équation à l'aide d'une matrice et suites et matrices.
+9h00 : Matrices, somme de matrices, produit de matrices par un réel, produit d'une matrice carré par une matrice colonne, produit de deux matrices carré,
+       puissance d'une matrice, conditions pour qu'une matrice soit inversible, inverse d'une matrice, équation matricielle, réseaudre système d'équation 
+       à l'aide d'une matrice et suites et matrices.
