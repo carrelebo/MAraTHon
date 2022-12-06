@@ -1,4 +1,4 @@
-# MAraTHon, chapitres complétés : 43/+60 (3 décembre 2022) -> Tale Maths expertes
+# MAraTHon, chapitres complétés : 44/+60 (6 décembre 2022) -> Tale Maths expertes
 
 Ce projet à été réaliser pour me rappeler de ma progession sur mon niveau en mathématiques, un très gros et long projet qui je pense vaut largement la peine.
 
@@ -27,3 +27,7 @@ Progression du projet : programme lycée maths
         commentaire : Je sais que j'ai était long juste pour ça, je travaillais sur d'autres projets et sur le calcul d'intégration un peu plus poussé
         comme avec le changement de variable...
         
+
+**Jour 199 (6 décembre 2022)
+
+9h00 : Matrices, somme de matrices, produit de matrices par un réel, produit d'une matrice carré par une matrice colonne, produit de deux matrices carré, puissance d'une matrice, conditions pour qu'une matrice soit inversible, inverse d'une matrice, équation matricielle, réseaudre système d'équation à l'aide d'une matrice et suites et matrices.
