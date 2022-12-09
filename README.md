@@ -1,4 +1,4 @@
-# MAraTHon, chapitres complétés : 44/+60 (6 décembre 2022) -> Tale Maths expertes - Début post bac
+# MAraTHon, chapitres complétés : 44/+60 (6 décembre 2022) -> Tale Maths expertes - Début Post-Bac
 
 Ce projet à été réaliser pour me rappeler de ma progession sur mon niveau en mathématiques, un très gros et long projet qui je pense vaut largement la peine.
 
