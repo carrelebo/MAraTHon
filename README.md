@@ -1,4 +1,4 @@
-# MAraTHon, chapitres complétés : 44/+60 (6 décembre 2022) -> Tale Maths expertes - Début Post-Bac
+# MAraTHon, chapitres complétés : 45/+60 (6 décembre 2022) -> Tale Maths expertes - Début Post-Bac
 
 Ce projet à été réaliser pour me rappeler de ma progession sur mon niveau en mathématiques, un très gros et long projet qui je pense vaut largement la peine.
 
@@ -28,8 +28,15 @@ Progression du projet : programme lycée maths
         comme avec le changement de variable...
         
 
-**Jour 199 (6 décembre 2022)
+**Jour 199 (6 décembre 2022)**
 
 9h00 : Matrices, somme de matrices, produit de matrices par un réel, produit d'une matrice carré par une matrice colonne, produit de deux matrices carré,
        puissance d'une matrice, conditions pour qu'une matrice soit inversible, inverse d'une matrice, équation matricielle, réseaudre système d'équation 
        à l'aide d'une matrice et suites et matrices.
+       
+**Jour 217**
+16h24 : Graphes, somme de degrés, chaîne et cycle, matrice d'adjacence, nombre de chemin de longueur n, chemin le plus court, 
+        graphes orientés et matrice d'ajacence, matrice de transition, graphe probabiliste et état stable.
+        
+Sujets de BAC traités
+
