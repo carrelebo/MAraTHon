@@ -1,4 +1,4 @@
-# MAraTHon, chapitres complétés : 45/+60 (6 décembre 2022) -> Tale Maths expertes - Début Post-Bac
+# MAraTHon, chapitres complétés : 45/+60 (17 décembre 2022) -> Tale Maths expertes - Début Post-Bac
 
 Ce projet à été réaliser pour me rappeler de ma progession sur mon niveau en mathématiques, un très gros et long projet qui je pense vaut largement la peine.
 
@@ -34,7 +34,7 @@ Progression du projet : programme lycée maths
        puissance d'une matrice, conditions pour qu'une matrice soit inversible, inverse d'une matrice, équation matricielle, réseaudre système d'équation 
        à l'aide d'une matrice et suites et matrices.
        
-**Jour 217**
+**Jour 217 (17 décembre 2022)**
 16h24 : Graphes, somme de degrés, chaîne et cycle, matrice d'adjacence, nombre de chemin de longueur n, chemin le plus court, 
         graphes orientés et matrice d'ajacence, matrice de transition, graphe probabiliste et état stable.
         
