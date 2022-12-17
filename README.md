@@ -41,5 +41,6 @@ Progression du projet : programme lycée maths
 Sujets de BAC traités
 
 **Samedi 17 décembre 2022 (16h35) -> programme du lycée terminé !**
+
         commentaire : Magnifique parcour que je recommande et continurai ! Maintenant les portes du programme supérieur est à ma porté !
         
