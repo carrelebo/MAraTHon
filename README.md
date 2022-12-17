@@ -1,4 +1,4 @@
-# MAraTHon, chapitres complétés : 45/+60 (17 décembre 2022) -> Tale Maths expertes - Début Post-Bac
+# MAraTHon, chapitres complétés : 45/+60 (17 décembre 2022) -> Tale Maths expertes
 
 Ce projet à été réaliser pour me rappeler de ma progession sur mon niveau en mathématiques, un très gros et long projet qui je pense vaut largement la peine.
 
@@ -40,3 +40,6 @@ Progression du projet : programme lycée maths
         
 Sujets de BAC traités
 
+**Samedi 17 décembre 2022 (16h35) -> programme du lycée terminé !**
+        commentaire : Magnifique parcour que je recommande et continurai ! Maintenant les portes du programme supérieur est à ma porté !
+        
