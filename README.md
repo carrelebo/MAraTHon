@@ -7,8 +7,8 @@ Progression du projet : programme début Post-Bac "Tale-L1"
 
 
 
-**Programme de seconde "2nd"** : https://github.com/carrelebo/MAraTHon/blob/main/2nd.md**
-**Programme de première spé "1ere"** : https://github.com/carrelebo/MAraTHon/blob/main/1ere.md**
-**Programme de de terminale spé "Tale"** : https://github.com/carrelebo/MAraTHon/blob/main/Tale.md**
-**Programme de terminale maths expertes "Tale-Expertes :  **
+**Programme de seconde "2nd"** : https://github.com/carrelebo/MAraTHon/blob/main/2nd.md
+**Programme de première spé "1ere"** : https://github.com/carrelebo/MAraTHon/blob/main/1ere.md
+**Programme de de terminale spé "Tale"** : https://github.com/carrelebo/MAraTHon/blob/main/Tale.md
+**Programme de terminale maths expertes "Tale-Expertes : https://github.com/carrelebo/MAraTHon/blob/main/Tale-Expertes.md**
         
