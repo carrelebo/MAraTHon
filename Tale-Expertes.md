@@ -1,4 +1,4 @@
-# MAraTHon, chapitres complétés : 45/+60 (30 décembre 2022) -> Tale Maths expertes
+# MAraTHon, chapitres complétés : 45/+60 (17 décembre 2022) -> Tale Maths expertes
 
 Ce projet à été réaliser pour me rappeler de ma progession sur mon niveau en mathématiques, un très gros et long projet qui je pense vaut largement la peine.
 
