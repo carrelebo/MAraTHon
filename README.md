@@ -25,3 +25,5 @@ Progression du projet : programme début Post-Bac "Tale-L1"
        commentaire : j'aurais plutôt appelé ce thème 'poubelle" que "rebouchage", on y mets les chapitres et concepte important
        (certain de classe de seconde !) au début Post-Bac, sans ça difficile de pouvoir suivre correctement les chapitres de probabilités !
        Donc même si ce n'est pas forcément au programme je recommande de voir ces notions.
+
+Playlist : https://www.youtube.com/playlist?list=PLVUDmbpupCaq2sMQrVs8pPJgutIBYwwLz
