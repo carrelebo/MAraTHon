@@ -30,7 +30,7 @@ Playlist : https://www.youtube.com/playlist?list=PLVUDmbpupCaq2sMQrVs8pPJgutIBYw
 
 **Jour 234 (3 janvier 2023) : Là où sa commence à être beaucoup plus amusant**
 
-8h48 : Début en structures algébrique
+8h48 : Début en structures algébrique, magma, monoïde, groupe, anneau et corps
 
        commentaire : ce n'est pas forcément au programme avant la L3, mais ça faisait partie du chemin que je voulais suivre,
        c'était très passionnant, je m'y suis beaucoup amusé, vraiment intéressant comme domaine, je pense que j'y my aventurerai
