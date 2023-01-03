@@ -16,7 +16,7 @@ Progression du projet : programme début Post-Bac "Tale-L1"
 **Programme de terminale maths expertes "Tale-Expertes : https://github.com/carrelebo/MAraTHon/blob/main/Tale-Expertes.md**
 
         
-**Jour 230 (30 décembre 2022) : Début des choses sérieuse
+**Jour 230 (30 décembre 2022) : Début des choses sérieuse**
 
 0h20 : Compléments et "rebouchage" des chapitres et conceptes important enlevé du programme du lycée; Système binaire, équation avec valeurs absolues,
        équation différentielle de 1er et 2nd ordre, différence entre les théorème, corolaire, propotition..., 
@@ -28,7 +28,7 @@ Progression du projet : programme début Post-Bac "Tale-L1"
 
 Playlist : https://www.youtube.com/playlist?list=PLVUDmbpupCaq2sMQrVs8pPJgutIBYwwLz
 
-**Jour 234 (3 janvier 2023) : Là où sa commence à être beaucoup plus amusant
+**Jour 234 (3 janvier 2023) : Là où sa commence à être beaucoup plus amusant**
 
 8h48 : Début en structures algébrique
 
