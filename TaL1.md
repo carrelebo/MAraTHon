@@ -38,7 +38,7 @@ Playlist : https://www.youtube.com/playlist?list=PLVUDmbpupCaq2sMQrVs8pPJgutIBYw
        
 Playlist : https://www.youtube.com/playlist?list=PLNefH6S6myiMFlgsEIGHb8KZaLKE2eAZQ
 
-**Jour 261 : grande "pause", début programme prépa + préparation de programmes**
+**Jour 261 (1er février 2023) : grande "pause", début programme prépa + préparation de programmes**
 
 21h34 : J'ai commencé une partie du programme de prépa MPSI que je ne continuerai pas avant de faire le plan que je m'étais fixé : 
         étant très dence et (j'adore l'aspect très théorique !), je ne sent pas que j'avance aussi vite et éfficacement, c'est pour
