@@ -15,7 +15,8 @@ Progression du projet : Programme Licence ~L1-L2
 
 **Découverte programme universitaire "TaL1" : https://github.com/carrelebo/MAraTHon/blob/main/Tal1.md**
 
-https://www.youtube.com/watch?v=yLNMPzqfC1c
+https://www.youtube.com/watch?v=yLNMPzqfC1c 
+
 **Jour 277**
 
         commentaire : Qui est-ce qui vous a dit que ça allait être fini ?
