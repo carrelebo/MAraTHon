@@ -26,3 +26,4 @@ https://www.youtube.com/watch?v=yLNMPzqfC1c
 **Jour 278 (18 février 2023)**
 
 18h11 : Alphabet grec.
+19h40 : LaTEX (toujours une dinguerie ce langage).
