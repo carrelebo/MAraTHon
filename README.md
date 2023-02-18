@@ -28,4 +28,5 @@ https://www.youtube.com/watch?v=yLNMPzqfC1c
 18h11 : Alphabet grec.
 
 19h40 : LaTEX 
+
         commentaire : Toujours une dinguerie ce langage.
