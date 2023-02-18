@@ -13,7 +13,7 @@ Progression du projet : Programme Licence ~L1-L2
 
 **Programme de terminale maths expertes "Tale-Expertes : https://github.com/carrelebo/MAraTHon/blob/main/Tale-Expertes.md**
 
-**Découverte programme universitaire "TaL1" : https://github.com/carrelebo/MAraTHon/blob/main/Tal1.md**
+**Découverte programme universitaire "TaL1" : https://github.com/carrelebo/MAraTHon/blob/main/TaL1.md**
 
 https://www.youtube.com/watch?v=yLNMPzqfC1c 
 
