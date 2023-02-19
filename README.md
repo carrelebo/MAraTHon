@@ -1,4 +1,4 @@
-# MAraTHon, chapitres complétés : 47/+60 (18 février 2023) -> Licence ~L1-L2
+# MAraTHon, chapitres complétés : 47/+60 (19 février 2023) -> Licence ~L1-L2
 
 Ce projet à été réaliser pour me rappeler de ma progession sur mon niveau en mathématiques, un très gros et long projet qui je pense vaut largement la peine.
 
@@ -30,3 +30,10 @@ https://www.youtube.com/watch?v=yLNMPzqfC1c
 19h40 : LaTEX 
 
         commentaire : Toujours une dinguerie ce langage.
+
+**Jour 279 (19 février 2023)**
+
+12h31 : formule trigonométrie
+
+        commentaire : C'est pas facile, c'est les début et il faut s'y faire.
+        
