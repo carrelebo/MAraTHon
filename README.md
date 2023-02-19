@@ -1,4 +1,4 @@
-# MAraTHon, chapitres complétés : 47/+60 (19 février 2023) -> Licence ~L1-L2
+# MAraTHon, chapitres complétés : 48/+60 (19 février 2023) -> Licence ~L1-L2
 
 Ce projet à été réaliser pour me rappeler de ma progession sur mon niveau en mathématiques, un très gros et long projet qui je pense vaut largement la peine.
 
