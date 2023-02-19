@@ -35,5 +35,5 @@ https://www.youtube.com/watch?v=yLNMPzqfC1c
 
 12h31 : formule trigonométrie
 
-        commentaire : C'est pas facile, c'est les début et il faut s'y faire.
+        commentaire : C'est pas facile, ce sont les débuts et il faut s'y faire.
         
