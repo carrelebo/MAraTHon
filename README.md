@@ -33,11 +33,19 @@ https://www.youtube.com/watch?v=yLNMPzqfC1c
 
 **Jour 279 (19 février 2023)**
 
-12h31 : formule trigonométrie
+12h31 : formules trigonométrie
 
         commentaire : C'est pas facile, ce sont les débuts et il faut s'y faire.
         
-18h38 : formule trigonomértie, circulaire et hyperbolique
+18h38 : formules trigonomértie, circulaire et hyperbolique
 
         commentaire : Plus le nom des fonction est compliquée, plus c'est stylé.
-        
+
+23h47 : formules développement limité
+
+        commentaire : Je suis agréablement surpris qu'il existe des formules avec la forme que je le souhaite
+                      (juste des x et d'autre variable) qui permettent d'exprimer des fonction trigonométrique
+                      ou moins parlante, pratique pour pouvoire développer des fonction ou programme informatique
+                      qui donne un ordre de grandeur ou résultats très proche d'une fonction.
+                      
+                      
