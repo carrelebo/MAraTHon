@@ -37,3 +37,7 @@ https://www.youtube.com/watch?v=yLNMPzqfC1c
 
         commentaire : C'est pas facile, ce sont les débuts et il faut s'y faire.
         
+18h38 : formule trigonomértie, circulaire et hyperbolique
+
+        commentaire : Plus le nom des fonction est compliquée, plus c'est stylé.
+        
