@@ -48,4 +48,4 @@ https://www.youtube.com/watch?v=yLNMPzqfC1c
                       ou moins parlante, pratique pour pouvoire développer des fonction ou programme informatique
                       qui donne un ordre de grandeur ou résultats très proche d'une fonction.
                       
-                      
+0h07 : formules primitive fonctions usuelles, trigonométrique et hyperbolique
