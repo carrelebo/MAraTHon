@@ -14,9 +14,12 @@ Jaicompris Maths, certains exercices de spé etnotions pour les maths expertes, 
 Exo7Math, toutes les vidéo des playlist présent sur leur chaîne : 
 - Chaîne : https://www.youtube.com/@Exo7Math/playlists
 
+Christophe Bertault, programme de maths prépa MPSI :
+-Site web : http://christophebertault.fr/
+
 Outils que j'utilise énorméments pour faire mes maths sans gaspiller de feuille et gagner en productivité :
 - Miro/Webwhiteboard : https://miro.com/ | https://webwhiteboard.com/
 - Lagrida Editor pour écrire du Latex en temps réel : https://latexeditor.lagrida.com/
 
 En espérant que ça inspirera certaines personnes à parcourir mon chemin via ces ressources.
-Je remercie par ailleurs ces personnes ert organisation qui ont pris leurs temmps pour fournir ses magnifiques cours ert exercices.
+Je remercie par ailleurs ces personnes et organisations qui ont pris leurs temmps pour fournir ses magnifiques cours et exercices.
