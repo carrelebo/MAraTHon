@@ -15,7 +15,7 @@ Exo7Math, toutes les vidéo des playlist présent sur leur chaîne :
 - Chaîne : https://www.youtube.com/@Exo7Math/playlists
 
 Christophe Bertault, programme de maths prépa MPSI :
--Site web : http://christophebertault.fr/
+- Site web : http://christophebertault.fr/
 
 Outils que j'utilise énorméments pour faire mes maths sans gaspiller de feuille et gagner en productivité :
 - Miro/Webwhiteboard : https://miro.com/ | https://webwhiteboard.com/
