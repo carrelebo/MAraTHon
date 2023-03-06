@@ -49,3 +49,34 @@ Playlist : https://www.youtube.com/playlist?list=PLNefH6S6myiMFlgsEIGHb8KZaLKE2e
         -playlist accompagnatif (que j'avais commencé jusqu'au relations binaires) : https://www.youtube.com/playlist?list=PLzY3ZTzw_O34BOVyLrBMZrMz8YZFBR8l3
         
 Maintenant je sais se qui m'attend !
+
+**Jour 277 (17 février 2023)**
+
+        commentaire : Qui est-ce qui vous a dit que ça allait être fini ?
+
+**Jour 278 (18 février 2023)**
+
+18h11 : Alphabet grec.
+
+19h40 : LaTEX 
+
+        commentaire : Toujours une dinguerie ce langage.
+
+**Jour 279 (19 février 2023)**
+
+12h31 : formules trigonométrie
+
+        commentaire : C'est pas facile, ce sont les débuts et il faut s'y faire.
+
+18h38 : formules trigonomértie, circulaire et hyperbolique
+
+        commentaire : Plus le nom des fonction est compliquée, plus c'est stylé.
+
+23h47 : formules développement limité
+
+        commentaire : Je suis agréablement surpris qu'il existe des formules avec la forme que je le souhaite
+                      (juste des x et d'autre variable) qui permettent d'exprimer des fonction trigonométrique
+                      ou moins parlante, pratique pour pouvoire développer des fonction ou programme informatique
+                      qui donne un ordre de grandeur ou résultats très proche d'une fonction.
+
+0h07 : formules primitive fonctions usuelles, trigonométrique et hyperbolique
