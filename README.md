@@ -29,3 +29,11 @@ Progression du projet : Programme Maths MPSI
                       par la suite d'aller en classe préparatoire, fini par y être... Le temps d'adaptation serait concidérable.
                       Enfin je trouve aussi intrigant qu'avec de l'auto-dicipline que l'on peut sur le long terme aller là
                       où on ne devrais pas supposément être; soit-il que l'autoformation n'est pas enseignée pour des raisons particulières.
+
+**Jour 363 (14 mai 2023) ** -> migration de compte
+
+J'ai ouvert un nouveau compte sur lequel je mets tout mes vrai projet pour remplir mon portfolio professionnel : https://github.com/benstitousofiane
+ici c'était un peu un compte mal rangé. Un fork a été établit sans ce paragraphe.
+
+Le chapitre sur Rudiments de logique et vocabulaire ensembliste est en cours de traitement, seulement entre les cours et la complexité des exercice cela prend un temps concidérable, c'est pour ça que je suis entrain de développé des applications et moyens de traitements de données pour pouvoir mieux travailler sur mon poste informatique (Développement de LaCase, Temporaire...)
+Il me reste à finir les exercices de ce chapitre, j'essairai de les terminer à la fin de se mois de mai, mais rien n'est assuré.
