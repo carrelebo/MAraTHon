@@ -33,7 +33,9 @@ Progression du projet : Programme Maths MPSI
 **Jour 363 (14 mai 2023) ** -> migration de compte
 
 J'ai ouvert un nouveau compte sur lequel je mets tout mes vrai projet pour remplir mon portfolio professionnel : https://github.com/benstitousofiane
-ici c'était un peu un compte mal rangé. Un fork a été établit sans ce paragraphe.
+
+ici c'était un peu un compte mal rangé. Un fork a été établit sans ce paragraphe : https://github.com/benstitousofiane/MAraTHon
+
 
 Le chapitre sur Rudiments de logique et vocabulaire ensembliste est en cours de traitement, seulement entre les cours et la complexité des exercice cela prend un temps concidérable, c'est pour ça que je suis entrain de développé des applications et moyens de traitements de données pour pouvoir mieux travailler sur mon poste informatique (Développement de LaCase, Temporaire...)
 Il me reste à finir les exercices de ce chapitre, j'essairai de les terminer à la fin de se mois de mai, mais rien n'est assuré.
